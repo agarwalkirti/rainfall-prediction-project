@@ -1,2 +1,3 @@
 # rainfall-prediction-project
 RAINFALL PREDICTION PROJECT
+In this project, I have loaded the Austin weather dataset, cleaned the data by removing irrelevant columns and handling missing values or symbols like "T" or "-", and preprocess the data for modeling. I have applied Linear Regression using sklearn to predict precipitation levels (PrecipitationSumInches) and analyzed the relationship between precipitation and various weather attributes such as average temperature, humidity, and wind speed. visualized precipitation trends over time and its correlation with different weather indicators using matplotlib. 
